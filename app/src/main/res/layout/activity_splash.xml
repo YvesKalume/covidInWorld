@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E1DEDE"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".activities.SplashActivity">
+
+    <ImageView
+        android:id="@+id/splashLog"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:src="@drawable/covid_ic" />
+
+    <TextView
+        android:id="@+id/splashText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="18dp"
+        android:fontFamily="@font/roboto_mono_medium"
+        android:gravity="center_horizontal"
+        android:text="@string/splashText"
+        android:textAlignment="center"
+        android:textColor="#020202"
+        android:textSize="30sp" />
+
+</LinearLayout>

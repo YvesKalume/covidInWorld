@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Covid In World </string>
+    <string name="appTitle">Coronavirus Dans Le Monde</string>
+    <string name="zero">0</string>
+    <string name="d_c_s">Décès</string>
+    <string name="cas_confirm_s">Cas Confirmés</string>
+    <string name="r_tablis">Rétablis</string>
+
+    <string name="tiptext">Ce sont les autorités nationales
+        et locales qui disposent des informations les plus récentes sur la propagation ou non de la COVID-19
+        dans la région où vous vous trouvez. Elles sont les mieux placées
+        pour expliquer ce que les personnes dans votre région
+        devraient faire pour se protéger.</string>
+
+    <string name="warning">warning</string>
+    <string name="attention">Attention</string>
+    <string name="credit">By <a href="https://twitter.com/kalumeyves">@YvesKalume</a></string>
+    <string name="splashText">La meilleur façon de proteger vos proches est de vous proteger</string>
+</resources>
